@@ -1,11 +1,3 @@
-## AnLoMinus
-Topic=GPT-1
-
-[Topic] Glossary: Key Terms and Definitions
-Please provide me with a glossary of key terms and definitions related to [Topic], formatted in Markdown style with headings, subheadings, subtopics, and subcategories, for use in a blog post.
-
-
-## ChatGPT
 # Glossary of Key Terms and Definitions for GPT-1
 
 GPT-1, or the Generative Pre-trained Transformer 1, is a natural language processing model developed by OpenAI in 2018. Here are some key terms and definitions related to GPT-1:
